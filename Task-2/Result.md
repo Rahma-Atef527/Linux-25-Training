@@ -1,3 +1,17 @@
+
+---
+# Task Grading Result
+
+- **Time of grading:** Sunday, August 10, 2025, 02:17 AM
+
+- **Task:** Task-2
+
+- **Result:** NOTSUBMITTED
+
+- **Comments:** Test execution failed (exit code: 2)
+
+Logs:
+```bash
 Setting up task environment...
 [ERROR] Required directory not found: Ghost
 [SUCCESS] Setup validated. Found solution, and workspace.
@@ -14,12 +28,4 @@ Executing test...
 -------------------------------------
 [INFO] Final Score: 0 / 6
 [ERROR] Task not submitted.
-
----
-# Task Grading Result
-
-**Time of grading:** Sunday, August 10, 2025, 02:04 AM
-**Task:** Task-2
-**Result:** NOTSUBMITTED
-**Comments:** Test execution failed (exit code: 2)
----
+```
