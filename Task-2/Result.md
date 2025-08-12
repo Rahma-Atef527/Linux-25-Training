@@ -2,30 +2,33 @@
 ---
 # Task Grading Result
 
-- **Time of grading:** Sunday, August 10, 2025, 02:17 AM
+- **Time of grading:** Tuesday, August 12, 2025, 12:22 PM
 
 - **Task:** Task-2
 
-- **Result:** NOTSUBMITTED
+- **Result:** CORRECT
 
-- **Comments:** Test execution failed (exit code: 2)
 
 Logs:
 ```bash
 Setting up task environment...
-[ERROR] Required directory not found: Ghost
 [SUCCESS] Setup validated. Found solution, and workspace.
 Executing test...
 [INFO] Checking Stage 1...
-[ERROR] Required file not found: Ghost/stage1_answer.txt
+[SUCCESS] Stage 1 Answer is correct.
 [INFO] Checking Stage 2...
+[SUCCESS] Stage 2 Tool is correctly extracted and executable.
 [INFO] Checking Stage 3...
-[ERROR] Required file not found: Ghost/stage3_answer.txt
+[SUCCESS] Stage 3 Answer is correct.
 [INFO] Checking Stage 4...
-[ERROR] Required file not found: Ghost/stage4_answer.txt
+[SUCCESS] Stage 4 Answer is correct.
 [INFO] Checking Final Flag in report...
+[SUCCESS] Final Flag is correct in the report.
 [INFO] Checking command documentation in solution...
+[SUCCESS] Sufficient command documentation found (5 stages).
+[INFO] This doesn't mean the commands inside the solution file is right it means only that you wrote the Stages titles inside the file.
 -------------------------------------
-[INFO] Final Score: 0 / 6
-[ERROR] Task not submitted.
+[INFO] Final Score: 6 / 6
+[SUCCESS] Task passed!
+[INFO] Commit and push the solution file now.
 ```
