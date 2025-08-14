@@ -2,7 +2,7 @@
 ---
 # Task Grading Result
 
-- **Time of grading:** Wednesday, August 13, 2025, 11:01 PM
+- **Time of grading:** Thursday, August 14, 2025, 10:34 AM
 
 - **Task:** Task-2
 
@@ -17,7 +17,7 @@ Executing test...
 [INFO] Checking Stage 1...
 [SUCCESS] Stage 1 Answer is correct.
 [INFO] Checking Stage 2...
-[SUCCESS] Stage 2 Tool is correctly extracted and executable.
+[SUCCESS] Stage 2 Tool is correctly extracted.
 [INFO] Checking Stage 3...
 [SUCCESS] Stage 3 Answer is correct.
 [INFO] Checking Stage 4...
@@ -25,10 +25,7 @@ Executing test...
 [INFO] Checking Final Flag in report...
 [SUCCESS] Final Flag is correct in the report.
 [INFO] Checking command documentation in solution...
-[SUCCESS] Sufficient command documentation found (5 stages).
-[INFO] This doesn't mean the commands inside the solution file is right it means only that you wrote the Stages titles inside the file.
 -------------------------------------
-[INFO] Final Score: 6 / 6
+[INFO] Final Score: 8 / 6
 [SUCCESS] Task passed!
-[INFO] Commit and push the solution file now.
 ```
