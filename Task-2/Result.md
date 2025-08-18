@@ -2,6 +2,19 @@
 ---
 # Task Grading Result
 
+- **Time of grading:** Monday, August 18, 2025, 09:19 PM
+
+- **Task:** Task-2
+
+- **Result:** CORRECT
+
+
+Logs:
+```bash
+
+---
+# Task Grading Result
+
 - **Time of grading:** Monday, August 18, 2025, 09:03 PM
 
 - **Task:** Task-2
@@ -41,5 +54,6 @@ Executing test...
 -------------------------------------
 [INFO] Final Score: 6 / 6
 [SUCCESS] Task passed!
+```
 ```
 ```
