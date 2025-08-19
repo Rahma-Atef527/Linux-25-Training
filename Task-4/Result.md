@@ -2,46 +2,7 @@
 ---
 # Task Grading Result
 
-- **Time of grading:** Monday, August 18, 2025, 09:43 PM
-
-- **Task:** Task-4
-
-- **Result:** CORRECT
-
-
-Logs:
-```bash
-
----
-# Task Grading Result
-
-- **Time of grading:** Monday, August 18, 2025, 08:33 PM
-
-- **Task:** Task-4
-
-- **Result:** CORRECT
-
-
-Logs:
-```bash
-
----
-# Task Grading Result
-
-- **Time of grading:** Monday, August 18, 2025, 08:14 PM
-
-- **Task:** Task-4
-
-- **Result:** CORRECT
-
-
-Logs:
-```bash
-
----
-# Task Grading Result
-
-- **Time of grading:** Sunday, August 17, 2025, 07:51 PM
+- **Time of grading:** Tuesday, August 19, 2025, 01:45 PM
 
 - **Task:** Task-4
 
@@ -57,16 +18,13 @@ Logs:
 [ERROR] Failed to create extracted_<timestamp> folder
 [INFO] Checking if .tar.xz archive was extracted correctly...
 [ERROR] tar.xz content not found or extraction failed
-[ERROR] Invalid extracted folder name format
 [ERROR] Script structure seems incomplete
 
 =========================
 [INFO] Testing part two...
 [INFO] Testing get_sum.sh functionality
-[ERROR] is_positive() function not found
 [ERROR] Loop structure missing
 [ERROR] User input handling missing
-[ERROR] Function missing return statements
 [ERROR] Sum calculation logic missing
 [INFO] Testing basic functionality with input: 5, -3, 10, 0
 [ERROR] Basic test failed - Expected: 15, Got: 
@@ -77,13 +35,9 @@ Logs:
 
 =========================
 Tests Passed : 0
-Tests Failed : 12
-Grade        : 0 / 10
+Tests Failed : 9
 =========================
 [INFO] Submission needs improvement
 [INFO] Cleaning up...
 [INFO] Cleanup complete
-```
-```
-```
 ```
