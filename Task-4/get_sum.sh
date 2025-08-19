@@ -21,3 +21,4 @@ while true; do
     fi
 done
 echo "Sum of positive numbers: $sum"
+
